@@ -48,6 +48,10 @@ MI300x
 MI325x
 ./run_scenario_offline_MI325x_cpx.sh
 ./run_scenario_server_MI325x_cpx.sh
+
+MI325x with BS 32
+./run_scenario_offline_MI325x_cpx_bs32.sh
+./run_scenario_server_MI325x_cpx_bs32.sh
 ```
 
 ### Quantization (Optional)
